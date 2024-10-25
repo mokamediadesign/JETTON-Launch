@@ -2,7 +2,7 @@
 
 ## 🚩 Challenge 3: Jetton Vending Machine
 
-🤖 Smart contracts are kind of like "always on" vending machines that anyone can access. Let's make a decentralized, digital currency (an Jetton Standart token). 
+🤖 Smart contracts are kind of like "always on" vending machines that anyone can access. Let's make a decentralized, digital currency (a Jetton Standard token). 
 
 🌟 The final deliverable will be ICO contract deployed to the testnet
 
